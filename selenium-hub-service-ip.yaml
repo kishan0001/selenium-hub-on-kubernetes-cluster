@@ -13,5 +13,5 @@ spec:
     targetPort: 4444
     name: port0
   type: LoadBalancer
-  loadBalancerIP: "35.233.137.74"
+  loadBalancerIP: "35.231.245.92"
   sessionAffinity: None
